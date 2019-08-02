@@ -14,11 +14,7 @@
         android:layout_alignParentBottom="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
-    <Button
-        android:text="SIGN UP"
-        android:layout_above="@id/btn_continued"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+
 
 
 </RelativeLayout>
